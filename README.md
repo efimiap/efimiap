@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Efimia 👋
+I am robotics researcher and engineer working on enabling autonomous systems to better understand and interact with the world.
 
-<!--
-**efimiap/efimiap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year PhD student at the [Oxford Robotics Institute](https://ori.ox.ac.uk/), working across the [Mobile Robotics Group](https://ori.ox.ac.uk/labs/mobile-robotics-group/) and the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group/). 
 
-Here are some ideas to get you started:
+💼 Part-time Senior Machine Learning Engineer at [OXA](https://oxa.tech/), contributing to the development of safe and scalable autonomous vehicle software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring how spatiotemporal information and semantic structures can be learned and used within deep graph learning models.
+
+💬 Always happy to connect over topics like Neural Algorithmic Reasoning, GNNs, SLAM, interpretability, robust navigation, and more!
+
+🌐 Website: [github.io/efimiap](https://efimiap.github.io/)
+
+
